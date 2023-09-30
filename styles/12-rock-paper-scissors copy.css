@@ -1,0 +1,52 @@
+body {
+  font-family: Roboto, Arial;
+  background-color: rgb(25,25,25);
+  color: white;
+}
+
+.reset-button, 
+.auto-play-button {
+  margin: none;
+  border-radius: 0%;
+  border-style: solid;
+  height: 38px;
+  width: 118px;
+  font-size: 15px;
+  color: black;
+  cursor: pointer;
+}
+
+.header {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, Arial;
+}
+
+.js-result {
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 50px;
+}
+
+.js-moves {
+  margin-bottom: 60px;
+}
+
+.move-icon {
+  height: 50px;
+  width: 50px;
+  margin-bottom: 25px;
+  margin: 0%;
+}
+
+.move-button {
+  background-color: rgb(25,25,25);
+  width: 120px;
+  height: 120px;
+  border-radius: 70px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
+  margin-right: 10px;
+  cursor: pointer;
+}
